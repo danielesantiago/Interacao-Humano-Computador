@@ -5,7 +5,7 @@
 
 <img src="Arquivos/woman.jpg" alt="mulher">
 
-> Repositório utilizado para armazenar a análise exploratória da coleta de dados realizada no curso de Interação Humano Computador afim de entender às preferências das mulheres em relação a um aplicativo de caronas no Campus. 
+> Repositório utilizado para armazenar a análise exploratória da coleta de dados realizada no curso de Interação Humano Computador visando entender às preferências das mulheres em relação a um aplicativo de caronas no Campus. 
 
 * Análise Exploratória: https://bit.ly/3RUaJd6
 * Protótipo Navegável: https://bit.ly/3fZoo5J
