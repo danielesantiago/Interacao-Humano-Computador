@@ -9,7 +9,6 @@
 
 * Análise Exploratória: https://bit.ly/3RUaJd6
 * Protótipo Navegável: https://bit.ly/3fZoo5J
-* Portfólio Final: https://padlet.com/daniele112/lcqo63ban4liq2pc
 
 ## Questões realizadas
 1. Com qual gênero você se identifica?
